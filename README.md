@@ -1,1 +1,1 @@
-# spark-data-processing
+In this project, part of the IBM Data Engineering course, I make use of Apache Spark to execute data transformations and analytics using SparkSQL and Spark DataFrames on a Jupyter Notebook through the pyspark library.
